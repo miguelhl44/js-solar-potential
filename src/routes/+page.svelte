@@ -111,19 +111,7 @@
 
       <div class="grow" />
 
-      <div class="flex flex-col items-center w-full">
-        <md-text-button
-          href="https://github.com/googlemaps-samples/js-solar-potential"
-          target="_blank"
-        >
-          View code on GitHub
-          <img slot="icon" src="github-mark.svg" alt="GitHub" width="16" height="16" />
-        </md-text-button>
-      </div>
-
-      <span class="pb-4 text-center outline-text label-small">
-        This is not an officially supported Google product.
-      </span>
+      
     </div>
   </aside>
 </div>
