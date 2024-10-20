@@ -93,15 +93,14 @@
             href="https://developers.google.com/maps/documentation/solar/overview?hl=en"
             target="_blank"
           >
-            Two distinct endpoints of the <b>Solar API</b>
+            En <b>solcelleberegner</b> er et effektivt værktøj til både private husejere og virksomheder
             <md-icon class="text-sm">open_in_new</md-icon>
           </a>
-          offer many benefits to solar marketplace websites, solar installers, and solar SaaS designers.
+          der overvejer at investere i solceller. Den hjælper brugere med at beregne det potentielle udbytte af en solcelleinstallation baseret på husets placering og solens strålingsniveau.
         </p>
 
         <p>
-          <b>Click on an area below</b>
-          to see what type of information the Solar API can provide.
+          Solcelleberegneren giver et præcist estimat på energibesparelser og tilbagebetalingstid, hvilket gør det lettere at træffe en informeret beslutning. Den er ideel til dem, der ønsker at reducere deres energiforbrug, spare penge og samtidig bidrage til en grønnere fremtid.
         </p>
       </div>
 
